@@ -1,5 +1,5 @@
 
-import Menu from "@/components/Menu";
+import Menu from "@/app/components/Menu";
 import "./globals.css";
 
 export const metadata = {
